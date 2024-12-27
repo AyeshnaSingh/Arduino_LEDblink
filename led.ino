@@ -1,9 +1,8 @@
 
-int ledPin = 35
+int ledPin = 11
 void setup() 
 {
   pinMode (ledPin,OUTPUT);
-
 }
 
 void loop() 
